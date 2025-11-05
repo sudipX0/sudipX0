@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Sudip</h1>
 <h3 align="center">Aspiring AI Engineer From Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipx0&label=Profile%20views&color=0e75b6&style=flat" alt="sudipx0" /> </p>
 
 - 🔭 I’m currently working on [AI-Powered Deepfake Video Detection](https://github.com/sudipX0/DF-SCAN)
 
@@ -21,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipx0&show_icons=true&locale=en&layout=compact" alt="sudipx0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipx0&show_icons=true&locale=en" alt="sudipx0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipx0&" alt="sudipx0" /></p>
 
